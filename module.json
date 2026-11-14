@@ -3,7 +3,7 @@
   "name": "browser-game-moderation-and-analytics-filament",
   "display_name": "Browser Game ModerationAndAnalytics Filament",
   "description": "Filament 5 moderation-and-analytics catalog resources.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\ModerationAndAnalyticsFilament\\ModerationAndAnalyticsFilamentServiceProvider",
   "requires": {
